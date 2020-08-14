@@ -1,0 +1,45 @@
+#+title: RFC: Better use of CV words
+#+author: melopee
+
+* Duration
+[Wed 12 Aug 2020]
+
+* Current State
+WIP Draft.
+
+* Proposers
+- @melopee
+
+* Problem
+
+Simple PRAs use all of the morpho-phonological space of words of the form `CV`, where V is a vocalic form from a vocalic series, and C is a single consonant.
+This is done for the sake of:
+
+- conciseness: all simple PRAs are short
+- simplicity
+- regularity: all simple PRAs have the same form
+
+However, many of those forms are not enough common or useful to deserve such a short representation.
+Example:
+    
+    ju'u: Abstract animate or inanimate + Detrimental + Navigative
+
+Moreover, with the personal reference roots, it is now possible to recreate all combinations with regular formatives.
+
+* Proposal
+Allocating all VC words for PRAs might have advantages, but such short words could be used for other things, which are also currently lacking in the language:
+
+- Words for letter of the alphabet
+- Numbers
+- Connectives
+- Standalone VxCs or short formatives
+
+I propose we reconsider the use of VC words in FreeTNIL for something perhaps more useful than a myriad of PRAs.
+
+* Record of votes
+Votes are closed for now, waiting to discuss better uses of VC words.
+
+* Resolution
+Draft.
+
+* CC
